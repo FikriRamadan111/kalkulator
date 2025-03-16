@@ -92,3 +92,20 @@ input {
     font-size: 1.1em;
     color: #333;
 }
+
+#clear-history {
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 1.1em;
+    background: #ff5959;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+#clear-history:hover {
+    background: #e44e4e;
+}
